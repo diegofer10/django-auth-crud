@@ -92,6 +92,9 @@ GIT
 8. git push -u origin master
 
 
-Si realizo un Cambio 
+Si realizo un Cambio, realizo estos comandos para agregar el cambio 
 1. git status
 2. git add . 
+3. git commit -m "pip install -r requirements.txt"
+4. git push origin master
+
