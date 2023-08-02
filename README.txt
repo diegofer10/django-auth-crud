@@ -85,6 +85,13 @@ GIT
 1. Archivo .gitignore
 2. git init
 3. git add .
+4. git commit -m "first commit"
+5. https://github.com/diegofer10
+6. Crear repo 
+7. copiar git remote add origin https://github.com/diegofer10/django-auth-crud.git
+8. git push -u origin master
 
 
-
+Si realizo un Cambio 
+1. git status
+2. git add . 
